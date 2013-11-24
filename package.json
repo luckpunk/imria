@@ -1,0 +1,19 @@
+{
+  "name": "imria",
+  "version": "0.0.2",
+  "description": "Some usefull tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/imria.js"
+  },
+  "bin": "./bin/imria.js",
+  "author": "imria",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "assets": "*"
+  },
+  "respository": {
+    "type": "git",
+    "url": "http://github.com/louislve/imria.git"
+  }
+}
